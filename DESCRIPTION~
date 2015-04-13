@@ -1,0 +1,9 @@
+Package: OFET
+Type: Package
+Title: Manipulate data in OFET test
+Version: 1.0
+Date: 2015-04-11
+Author: Yao Lu
+Maintainer: Yao Lu <95luyao@gmail.com>
+Description: Automatically manipulate data in expericement especially for those who focus on OFET with light-sensitive.
+License: What license is it under?
