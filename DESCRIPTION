@@ -1,7 +1,7 @@
 Package: OFET
 Type: Package
 Title: Manipulate data in OFET test
-Version: 0.1.0
+Version: 0.0.1
 Date: 2015-04-11
 Author: Yao Lu
 Maintainer: Yao Lu <95luyao@gmail.com>
