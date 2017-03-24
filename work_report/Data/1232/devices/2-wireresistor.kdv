@@ -1,0 +1,9 @@
+[Bitmaps]
+Small=\devices\2-wireresistor.bmp
+Big=\devices\2-wireresistor-big.bmp
+[Terminals]
+Number=2
+Orientation=;E:B;W:A
+[Status]
+RunStatus=0
+IsChecked=1

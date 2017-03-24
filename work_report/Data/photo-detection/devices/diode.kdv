@@ -1,0 +1,9 @@
+[Bitmaps]
+Small=\devices\diode.bmp
+Big=\devices\diode-big.bmp
+[Terminals]
+Number=2
+Orientation=;E:Cathode;W:Anode
+[Status]
+RunStatus=0
+IsChecked=0

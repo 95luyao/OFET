@@ -1,0 +1,9 @@
+[Bitmaps]
+Small=\devices\capacitor.bmp
+Big=\devices\capacitor-big.bmp
+[Terminals]
+Number=2
+Orientation=;E:B;W:A
+[Status]
+RunStatus=0
+IsChecked=0

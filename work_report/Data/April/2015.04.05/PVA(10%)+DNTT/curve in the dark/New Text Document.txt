@@ -1,0 +1,6 @@
+the curves show no transistor feature in the dark
+
+i suppose it's broken 
+
+but ,so wierd that it became normal when light on
+(but there's a strange feature that [we used to have the I(10->-60)<I(-60->10)]), in other words,the second cueve have lower current than the first 

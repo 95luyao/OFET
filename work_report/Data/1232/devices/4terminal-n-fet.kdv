@@ -1,0 +1,9 @@
+[Bitmaps]
+Small=\devices\4terminal-n-fet.bmp
+Big=\devices\4terminal-n-fet-big.bmp
+[Terminals]
+Number=4
+Orientation=;N:Drain;E:Bulk;S:Source;W:Gate
+[Status]
+RunStatus=0
+IsChecked=1

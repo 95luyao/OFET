@@ -1,0 +1,13 @@
+[KITE]
+msg1= Keithley Interactive Test Environment - Generated KITE ITM Algorithm File
+msg2= INI File Format, V9.0
+msg3= ** DO NOT EDIT **
+msg4= ** Assume All Values are CaSe SeNsItIvE!!! **
+[Test Type]
+Type=ITM
+[Terminals]
+Number=4
+Orientation=;N:Drain;E:Bulk;S:Source;W:Gate
+[Status]
+RunStatus=0
+IsChecked=1

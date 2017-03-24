@@ -1,0 +1,9 @@
+[Bitmaps]
+Small=\devices\3terminal-npn-bjt.bmp
+Big=\devices\3terminal-npn-bjt-big.bmp
+[Terminals]
+Number=3
+Orientation=;N:Collector;S:Emitter;W:Base
+[Status]
+RunStatus=0
+IsChecked=0
